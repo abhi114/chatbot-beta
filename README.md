@@ -1,4 +1,4 @@
-![img](sc.png)
+![img](https://github.com/abhi114/chatbot-beta/blob/80777c2bd99b34f4e8c7e115351da85452e9b020/sc.png)
 
 # Getting Started with Create React App
 
